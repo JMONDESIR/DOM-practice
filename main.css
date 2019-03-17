@@ -1,0 +1,26 @@
+.blue_button {
+        width: 70px;
+        height: 20px;
+        background-color: rgb(21, 21, 131);
+        color: white;
+        padding: 2px;
+        margin: 2px;
+}
+
+.red_button {
+        width: 70px;
+        height: 20px;
+        background-color: rgb(158, 70, 70);
+        color: white;
+        padding: 2px;
+        margin: 2px;
+}
+
+.green_button {
+        width: 70px;
+        height: 20px;
+        background-color: rgb(29, 143, 90);
+        color: white;
+        padding: 2px;
+        margin: 2px;
+}
